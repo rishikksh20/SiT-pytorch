@@ -1,5 +1,5 @@
 # SiT: Self-Supervised Vision Transformer
-Unofficial implementation of [SiT: Self-supervised vIsion Transformer](https://arxiv.org/abs/2104.03602).
+This repo contains unofficial implementation of [SiT: Self-supervised vIsion Transformer](https://arxiv.org/abs/2104.03602), for official repo check [here](https://github.com/Sara-Ahmed/SiT).
 ![](assets/model.PNG)
 
 ## Citation:
@@ -13,3 +13,4 @@ Unofficial implementation of [SiT: Self-supervised vIsion Transformer](https://a
       primaryClass={cs.CV}
 }
 ```
+
